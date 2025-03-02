@@ -52,3 +52,4 @@ markdown+相对路径=post_asset_folder:false+images/reinforcement/images-1.png
 
 
 问题1=blog路径不对+url_for
+
